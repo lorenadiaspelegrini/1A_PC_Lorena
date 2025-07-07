@@ -1,0 +1,21 @@
+body {
+background-color: pink
+color: white;
+font-family: cursive;
+
+}
+header{
+font-size: 50px;
+border-bottom: dotted 5px white;
+padding: 50px;
+text-align: center;
+color: blue
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
